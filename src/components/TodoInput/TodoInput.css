@@ -1,0 +1,25 @@
+.todo__body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 80vw;
+    margin: 0 auto;
+    text-align: center;
+    background: rgba(77, 70, 119, 0.603);
+}
+
+.todo__body input {
+    width: 90%;
+    padding: 1em 0.5em;
+    margin: 0 auto;
+}
+
+.todo__body button {
+    width: 91.5%;
+    padding: 1em 0.5em;
+    margin: 1rem auto;
+    border-radius: 0.75em;
+    font-weight: 700;
+    background: rgb(157, 153, 185);
+    color: #fff;
+}

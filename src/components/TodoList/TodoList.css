@@ -1,0 +1,41 @@
+.todo__list__1 {
+    background: rgba(77, 70, 119, 0.603);
+    width: 80vw;
+    margin: 2rem auto 0 auto;
+    height: 60vh;
+}
+
+.todo__list__1 div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background:rgb(157, 153, 185);
+    padding: 0.25rem 0;
+    margin: 0 0.5rem;
+}
+
+.todo__list__1 div h1 {
+    margin-left: 0;
+}
+
+.btn__div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn__div button {
+    padding: 0.5rem 1rem;
+    margin-right: 0.25rem;
+    border-radius: 0.5rem;
+    color: white;
+}
+
+.toggle__btn {
+    background: rgb(54, 6, 54);
+}
+
+.delete__btn {
+    background: rgb(39, 10, 10);
+}
